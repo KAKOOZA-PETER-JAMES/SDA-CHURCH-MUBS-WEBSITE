@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="600" viewBox="0 0 480 600" role="img" aria-label="Department head placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#dce7fb"/>
+      <stop offset="100%" stop-color="#c5d7f5"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="600" fill="url(#bg)"/>
+  <circle cx="240" cy="210" r="92" fill="#8aa8dd"/>
+  <path d="M98 490c18-86 84-132 142-132s124 46 142 132" fill="#8aa8dd"/>
+  <rect x="50" y="520" width="380" height="50" rx="10" fill="#1f4a8a" opacity="0.9"/>
+  <text x="240" y="553" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#ffffff">Department Head Photo</text>
+</svg>

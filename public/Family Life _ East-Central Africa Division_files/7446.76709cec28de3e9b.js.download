@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5065,7446],{95065:(s,a,e)=>{e.r(a),e.d(a,{Icon:()=>r});var n=e(6029);e(55729);var c=e(69675),t=e(8729),l=e(45997);function r(s){let{as:a,className:e,iconClass:r,name:u,title:i}=s;return(0,n.jsx)(c.N,{as:a,className:(0,t.cn)(!e&&"h-6 w-6",e),iconClass:r,name:u,title:i,iconMap:l.K})}}}]);

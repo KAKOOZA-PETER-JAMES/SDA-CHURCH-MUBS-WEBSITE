@@ -1,0 +1,2 @@
+MAIL_TEST_FAILED: Connection could not be established with host smtp-relay.brevo.com :stream_socket_client(): unable to connect to tcp://smtp-relay.brevo.com:587 (No connection could be made because the target machine actively refused it.
+)
